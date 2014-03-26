@@ -1,4 +1,4 @@
-Twitter Tools
+NETINF
 =============
 This is a working version of the NETINF algorithm downloaded from http://snap.stanford.edu/netinf/. The original code has some issues and does not compile correctly. This version does. The original code does not even run with the example files given. I have changed this one to work. Or at least the basic version.
 
