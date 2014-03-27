@@ -6,8 +6,8 @@ Usage
 -------
 Input Format: The input file to NETINF, with information about the cascades, should have two blocks separated by a blank line. 
 Each line in the first block contains the id and name of a site: 
-<id>,<name>
+id,name
 Each line in the second block contains information about one cascade:
-<id>,<timestamp>,<id>,<timestamp>....
+id,timestamp,id,timestamp....
 
 You can run the code then using ./netinf -i:example-cascades.txt
